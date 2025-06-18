@@ -53,3 +53,7 @@
 <img src="skidka-2.jpg" alt="Компьютер">
 
 <img src="kod-2.jpg" alt="Компьютер">
+
+## Заметки по применению дизайнерских решений
+
+<img src="pometka.png" alt="Компьютер">
